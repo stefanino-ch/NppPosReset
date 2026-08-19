@@ -6,7 +6,7 @@ NppPosReset is just a tiny application which resets the start coordinates of Not
 to x=10, y=10 which will be, at least in my setup, always visible. 
 
 How to use
-Download the .zip from the package folder. 
+Download the .zip from the package/dist folder. 
 Extract it.
 Run (double click) nppPosReset.exe
 
