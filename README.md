@@ -5,9 +5,11 @@ resulting in the fact, that somethimes the window is displayed outside the visua
 NppPosReset is just a tiny application which resets the start coordinates of Notepad++ 
 to x=10, y=10 which will be, at least in my setup, always visible. 
 
-How to use
-Download the .zip from the package/dist folder. 
-Extract it.
-Run (double click) nppPosReset.exe
+**How to use**
+* Download the .zip from the package/dist folder. 
+
+* Extract it.
+
+* Run (double click) nppPosReset.exe
 
 :-)
